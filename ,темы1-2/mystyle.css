@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+.logo{
+    background-image: url(https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/bdc4dd582cc051ce8916b0dc0847fdb1.png/s/x50/a/251231/sc/329);
+    width: 300px;
+    height:70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
