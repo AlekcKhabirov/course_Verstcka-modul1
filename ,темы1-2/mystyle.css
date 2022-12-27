@@ -8,3 +8,6 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.text-dark:hover{
+    color: darkblue;
+}
